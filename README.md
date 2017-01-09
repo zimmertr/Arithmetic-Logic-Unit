@@ -1,6 +1,6 @@
 #Arithmetic Logic Unit in JLS
 
-This repository is for an ALU that I made for a Computer Organization class at GVSU.
+This repository is for an ALU that my group made for a Computer Organization class at GVSU.
 
 ##Signed Full Adder
 
