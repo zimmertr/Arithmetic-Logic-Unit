@@ -2,6 +2,8 @@
 
 This repository is for an ALU that my group made for a Computer Organization class at GVSU.
 
+http://www.cs.mtu.edu/~pop/jlsp/bin/JLS.html
+
 ##Signed Full Adder
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Arithmetic-logic-unit-in-JLS/master/SignedFullAdder.png "Signed Full Adder")
