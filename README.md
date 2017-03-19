@@ -1,22 +1,22 @@
-#Arithmetic Logic Unit in JLS
+# Arithmetic Logic Unit in JLS
 
 This repository is for an ALU that was made for a class project in a Computer Organization class at GVSU.
 
 http://www.cs.mtu.edu/~pop/jlsp/bin/JLS.html
 
-##Signed Full Adder
+## Signed Full Adder
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Arithmetic-logic-unit-in-JLS/master/SignedFullAdder.png "Signed Full Adder")
 
-##Four Set Carry Look Ahead
+## Four Set Carry Look Ahead
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Arithmetic-logic-unit-in-JLS/master/FourSetCarryLookAhead.png "Four Set Carry Look Ahead")
 
-##Four Ripple One Bit Adder
+## Four Ripple One Bit Adder
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Arithmetic-logic-unit-in-JLS/master/FourRippleOneBitAdders.png "Four Ripple One Bit Adders")
 
 
-##One Bit Full Adder
+## One Bit Full Adder
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Arithmetic-logic-unit-in-JLS/master/OneBitFullAdder.png "One Bit Full Adder")
